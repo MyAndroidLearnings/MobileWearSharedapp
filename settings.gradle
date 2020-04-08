@@ -1,0 +1,2 @@
+include ':app', ':wearapp', ':shareddata', ':mobile'
+rootProject.name='SharedDataApp'
